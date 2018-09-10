@@ -1,3 +1,8 @@
+https://github.com
+vvv283
+sysad.qmail@gmail.com
+myDum3ggn#d
+
 $ git commit -m "initial seed"
 
 *** Please tell me who you are.
